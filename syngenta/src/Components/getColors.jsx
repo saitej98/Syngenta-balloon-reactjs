@@ -9,3 +9,5 @@ export const getColors = (x) => {
   return Array[x];
 
 };
+
+// i am working on random colour from my array but i am getting same  colors intested of i can use Math.floor(Math.random()*16777215).toString(16) it is working but as per problem statement i tried this
